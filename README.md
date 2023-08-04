@@ -1,2 +1,2 @@
 # Bharath_intern
-about intern and results of task attached
+It's about tasks given in Bharathintern. For which we need to submit the code of tasks. Here are the results attached respectively.
